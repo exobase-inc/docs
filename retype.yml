@@ -1,0 +1,16 @@
+# See: https://github.com/retypeapp/retype/blob/main/configuration/project.md
+input: .
+output: dist
+url: docs.exobase.cloud
+branding:
+  title: Exobase
+  label: Docs
+favicon: ./favicon.ico
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+edit:
+  repo: "https://github.com/exobase-inc/docs"
+  label: Edit on GitHub
