@@ -38,8 +38,10 @@ The first thing might like to do is see the code. You don't want to use Exobase 
 
 [!ref](./core-principles/index.md)
 [!ref](./exobase-code/index.md)
-- See our template api repository
-- See the code for the actual Exobase API _(it's open source)_
+[!ref See our template API](https://github.com/exobase-inc/examples/tree/master/api)
+
+The Exobase APIs and services are all open source and they use the Exobase framework. When you're ready, check out our walkthrough where we go through the production code in our API.
+[!ref Exobase API Walkthrough](./guides/exobase-api-walkthrough.md)
 
 ## How Does Exobase Work?
 Understanding the system completely will help you know the abilities and limits and hopefully build your platform faster. Start here:
