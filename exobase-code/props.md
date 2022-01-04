@@ -1,10 +1,3 @@
----
-label: Props
-layout: default
-order: 100
-icon: rocket
----
-
 # Props
 
 To allow for exobase services running on many cloud provider / services we designed a simple interface to represent a request / response anywhere. A root hook is responsible for mapping from the framework it was designed for to the standard exobase `Props` object that contains all the data about the request and response with additional attributes used in other Exobase hooks and endpoints.

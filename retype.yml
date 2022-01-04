@@ -5,10 +5,11 @@ url: docs.exobase.cloud
 branding:
   title: Exobase
   label: Docs
-favicon: ./favicon.ico
 links:
   - text: Getting Started
     link: https://retype.com/guides/getting-started/
+  - text: GitHub
+    link: https://github.com/exobase-inc
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 edit:

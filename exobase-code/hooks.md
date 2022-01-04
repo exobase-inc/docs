@@ -1,11 +1,3 @@
----
-label: Hooks
-layout: default
-order: 100
-description: Learn the core principles of Exobase code
-icon: rocket
----
-
 # Hooks
 
 Python has an amazing pattern called decorators. A decorator is any function that takes a function as an argument and returns a function. Hooks are very similar. Hooks have an additional optional configuration step. So, hooks wrap functions and augment behavior.
